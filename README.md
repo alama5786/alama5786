@@ -40,14 +40,10 @@ Cloud Engineer | Platform Engineer | DevOps Architect
 
 <p align="center">
   <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120"/>
-   <img src="https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="120"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Microsoft-Azure_Administrator-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft-Azure_Security_Engineer-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft-Azure_Architect-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft-Azure_DevOps_Engineer-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white" />
+  <img src="https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="120"/>
+  <img src="https://images.credly.com/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png" width="120"/>
+  <img src="https://images.credly.com/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" width="120"/>
+  <img src="https://images.credly.com/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" width="120"/>
 </p>
 
 ---
