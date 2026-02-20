@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://www.linkedin.com/in/azizalamshah/">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
 I am Aziz Alam, born in Udaipur(Rajasthan), India, and now living in United Kingdom as a British Citizen.  
 
 I am working as a DevOps Lead in Talbot An AIG Company with experience in:
