@@ -25,13 +25,11 @@ Currently improving my skills in:
 ## 🛠️ Tech Stack
 
 <p align="left">
+  <img src="https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2023/02/16/aws_bp_primarylogo_01.png" width="120"/>
   <img src="https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png" width="120"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsh6fRo_ojjURNysq7gtmMC6vMQ2VtXwkFMQ&s" width="120" />
+  <img src="https://miro.medium.com/v2/resize:fit:1400/0*TqhE-Oz-pawXJTto" width="120" />
 </p>
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![Docker](<img src="https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png" width="120"/>)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
 
 ---
 
