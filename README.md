@@ -38,7 +38,7 @@ Cloud Engineer | Platform Engineer | DevOps Architect
 
 ## ☁️ Cloud Certifications
 
-<p align="center">
+<p align="left">
   <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120"/>
   <img src="https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="120"/>
   <img src="https://images.credly.com/images/1ad16b6f-2c71-4a2e-ae74-ec69c4766039/azure-security-engineer-associate600x600.png" width="120"/>
