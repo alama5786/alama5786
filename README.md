@@ -39,17 +39,14 @@ Cloud Engineer | Platform Engineer | DevOps Architect
 ## ☁️ Cloud Certifications
 
 <p align="center">
+  <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120"/>
+</p>
 
-<img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />
-
+<p align="center">
 <img src="https://img.shields.io/badge/Microsoft-Azure_Administrator-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Microsoft-Azure_Security_Engineer-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Microsoft-Azure_Architect-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Microsoft-Azure_DevOps_Engineer-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white" />
-
 </p>
 
 ---
