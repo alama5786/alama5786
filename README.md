@@ -40,7 +40,7 @@ Cloud Engineer | Platform Engineer | DevOps Architect
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />
 
 <img src="https://img.shields.io/badge/Microsoft-Azure_Administrator-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 
