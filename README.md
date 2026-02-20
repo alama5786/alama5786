@@ -1,39 +1,88 @@
-# Hi there 👋 I'm Aziz
+# Hi 👋 I'm Aziz Alam
 
-## 🚀 DevOps Lead | Cloud & Automation Enthusiast
+## 🚀 Cloud & Platform Engineer | DevOps Lead
 
-I am a DevOps Lead with experience in:
+Experienced DevOps Lead with strong expertise in designing, securing, and automating cloud-native platforms across AWS and Azure.
 
-- ☁️ AWS
-- 🐳 Docker
-- ☸️ Kubernetes
-- 🔧 Jenkins
-- 🗄️ SQL Server
-- 🔐 CI/CD & Automation
-
-Currently improving my skills in:
-- Advanced Kubernetes
-- Infrastructure as Code
-- Cloud Security
+I specialize in building scalable, secure, and production-ready cloud environments.
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 Target Role
+Cloud Engineer | Platform Engineer | DevOps Architect
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+---
+
+## ☁️ Cloud Certifications
+
+🏅 AWS Certified Cloud Practitioner  
+🏅 Microsoft Certified Azure Administrator  
+🏅 Microsoft Certified Azure Security Engineer  
+🏅 Microsoft Certified Azure Architect  
+🏅 Microsoft Certified Azure DevOps Engineer  
+
+---
+
+## 🛠️ Technical Expertise
+
+### ☁️ Cloud Platforms
+- AWS (IAM, S3, EC2, Athena, VPC)
+- Microsoft Azure (Networking, Security, DevOps, Architecture)
+
+### 🚀 DevOps & CI/CD
+- Jenkins
+- GitHub Actions
+- Azure DevOps
+- CI/CD Pipeline Design
+
+### ☸️ Containers & Orchestration
+- Docker
+- Kubernetes (Kubeadm, ETCD Backup/Restore, CNI, Monitoring)
+
+### 🔐 Security & Governance
+- IAM Role-Based Access
+- Cloud Security Architecture
+- Vault Integration
+- Access Control & Compliance
+
+### 🗄️ Databases
+- SQL Server
+- DDL / DML Deployment Automation
+- Athena Query Integration
 
 ---
 
 ## 📈 GitHub Stats
 
-![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=alama5786&show_icons=true&theme=radical)
+![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=alama5786&show_icons=true&theme=tokyonight)
 
 ---
 
-## 📫 Connect With Me
+## 🔥 GitHub Streak
 
-- LinkedIn: https://www.linkedin.com/in/azizalamshah/
-- Email: azizalamshah@yahoo.com
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alama5786&theme=tokyonight)
+
+---
+
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alama5786&layout=compact&theme=tokyonight)
+
+---
+
+## 🌱 Currently Exploring
+- Advanced Kubernetes Architecture
+- Platform Engineering Patterns
+- Infrastructure as Code (Terraform)
+- Secure Cloud Design
+
+---
+
+## 🤝 Let's Connect
+
+💼 Targeting Cloud / Platform Engineering Opportunities  
+📫 Open to collaboration on Cloud & DevOps projects  
+
+---
+
+⭐ "Building secure, automated and scalable cloud platforms."
