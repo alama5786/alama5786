@@ -40,6 +40,7 @@ Cloud Engineer | Platform Engineer | DevOps Architect
 
 <p align="center">
   <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120"/>
+   <img src="https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width="120"/>
 </p>
 
 <p align="center">
