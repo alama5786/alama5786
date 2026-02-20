@@ -1,10 +1,27 @@
-# Hi 👋 I'm Aziz Alam
+I am Aziz Alam, born in Udaipur(Rajasthan), India, and now living in United Kingdom as a British Citizen.  
 
-## 🚀 Cloud & Platform Engineer | DevOps Lead
+I am working as a DevOps Lead in Talbot An AIG Company with experience in:
 
-Experienced DevOps Lead with strong expertise in designing, securing, and automating cloud-native platforms across AWS and Azure.
+- ☁️ AWS
+- 🐳 Docker
+- ☸️ Kubernetes
+- 🔧 Jenkins
+- 🗄️ SQL Server
+- 🔐 CI/CD & Automation
 
-I specialize in building scalable, secure, and production-ready cloud environments.
+Currently improving my skills in:
+- Advanced Kubernetes
+- Infrastructure as Code
+- Cloud Security
+
+---
+
+## 🛠️ Tech Stack
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
 
 ---
 
@@ -15,11 +32,19 @@ Cloud Engineer | Platform Engineer | DevOps Architect
 
 ## ☁️ Cloud Certifications
 
-🏅 AWS Certified Cloud Practitioner  
-🏅 Microsoft Certified Azure Administrator  
-🏅 Microsoft Certified Azure Security Engineer  
-🏅 Microsoft Certified Azure Architect  
-🏅 Microsoft Certified Azure DevOps Engineer  
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Microsoft-Azure_Administrator-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Microsoft-Azure_Security_Engineer-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Microsoft-Azure_Architect-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Microsoft-Azure_DevOps_Engineer-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white" />
+
+</p>
 
 ---
 
