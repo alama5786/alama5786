@@ -25,11 +25,14 @@ Currently improving my skills in:
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2023/02/16/aws_bp_primarylogo_01.png" width="120"/>
-  <img src="https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png" width="120"/>
+  <img src="https://github.com/piyushsachdeva/piyushsachdeva/assets/40286378/8c9e2b9c-fd9f-48ed-af6e-ae9d347dd96e" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://miro.medium.com/v2/resize:fit:1400/0*TqhE-Oz-pawXJTto" width="120" />
+  <img src="https://miro.medium.com/v2/resize:fit:1400/0*TqhE-Oz-pawXJTto" height="40" />
+  <img width="12" />
 </p>
 
 ---
