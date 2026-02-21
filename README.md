@@ -37,6 +37,8 @@ Currently improving my skills in:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
   <img width="12" />
+  <img src="https://nicovibert.com/wp-content/uploads/2019/07/terraform_primarylogo_fullcolor.png" height="40" alt="ansible logo"  />
+  <img width="12" />
 </p>
 
 ---
