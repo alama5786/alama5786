@@ -93,12 +93,6 @@ Cloud Engineer | Platform Engineer | DevOps Architect
 
 ---
 
-## 📈 GitHub Stats
-
-![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=alama5786&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alama5786&theme=tokyonight)
