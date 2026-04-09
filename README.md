@@ -35,7 +35,7 @@ Currently improving my skills in:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://miro.medium.com/v2/resize:fit:1400/0*TqhE-Oz-pawXJTto" height="40" alt="jenkins logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo"  />
   <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
   <img width="12" />
