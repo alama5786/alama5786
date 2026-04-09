@@ -41,7 +41,7 @@ Currently improving my skills in:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
   <img width="12" />
-  <img src="https://nicovibert.com/wp-content/uploads/2019/07/terraform_primarylogo_fullcolor.png" height="40" alt="ansible logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/argocd/argocd-original.svg" height="40" alt="argocd logo"  />
   <img width="12" />
