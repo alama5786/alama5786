@@ -9,6 +9,27 @@
 
 ## 🚀 About Me
 
+I am a **DevOps Lead & Platform Engineer** with 15+ years of experience designing and building **secure, scalable, and automated cloud platforms**.
+
+🌍 Based in the United Kingdom  
+🏗️ Currently working at **Talbot (An AIG Company)**  
+
+💡 I specialize in:
+- Designing **Kubernetes-based platforms**
+- Implementing **GitOps with ArgoCD**
+- Building **end-to-end CI/CD pipelines**
+- Enabling **self-service platform engineering**
+
+---
+
+## 🚀 What I Do (Value Proposition)
+
+✔️ Build **production-grade Kubernetes platforms**  
+✔️ Implement **GitOps workflows using ArgoCD**  
+✔️ Automate **infrastructure & deployments at scale**  
+✔️ Design **secure cloud architectures (AWS & Azure)**  
+✔️ Improve **developer experience through platform engineering**  
+
 I am Aziz Alam, born in Udaipur (Rajasthan), India, and now living in the United Kingdom as a British Citizen.  
 
 I am working as a DevOps Lead in Talbot (An AIG Company) with experience in:
