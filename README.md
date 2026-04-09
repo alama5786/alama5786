@@ -30,24 +30,6 @@ I am a **DevOps Lead & Platform Engineer** with 15+ years of experience designin
 ✔️ Design **secure cloud architectures (AWS & Azure)**  
 ✔️ Improve **developer experience through platform engineering**  
 
-I am Aziz Alam, born in Udaipur (Rajasthan), India, and now living in the United Kingdom as a British Citizen.  
-
-I am working as a DevOps Lead in Talbot (An AIG Company) with experience in:
-
-- ☁️ AWS
-- 🐳 Docker
-- ☸️ Kubernetes
-- 🔧 Jenkins
-- 🚀 ArgoCD (GitOps)
-- 🗄️ SQL Server
-- 🔐 CI/CD & Automation
-
-Currently improving my skills in:
-- Advanced Kubernetes
-- Infrastructure as Code
-- Cloud Security
-- GitOps & Progressive Delivery
-
 ---
 
 ## 🛠️ Tech Stack
