@@ -105,11 +105,6 @@ Cloud Engineer | Platform Engineer | DevOps Architect
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alama5786&theme=tokyonight)
 
----
-
-## 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alama5786&layout=compact&theme=tokyonight)
 
 ---
 
